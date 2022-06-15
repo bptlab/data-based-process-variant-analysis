@@ -1,0 +1,21 @@
+*.egg-info/
+.ipynb_checkpoints/
+dist/
+build/
+*.py[cod]
+node_modules/
+htmlcov
+.coverage
+
+# Compiled javascript
+ipyevents/nbextension/
+ipyevents/labextension/
+doc/source
+lib
+
+# Documentation build
+docs/_build
+
+# OS X
+.DS_Store
+js/lib
